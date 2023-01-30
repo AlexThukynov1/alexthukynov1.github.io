@@ -1,20 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.6d6151ca.css",
-    "main.js": "/static/js/main.9546c20b.js",
-    "static/media/img1-min.png": "/static/media/img1-min.b358bcca5317e7ae2edf.png",
-    "static/media/Gill Sans Nova Medium.woff": "/static/media/Gill Sans Nova Medium.945a13021254d38e7c4b.woff",
-    "static/media/Pan Display Bold.woff": "/static/media/Pan Display Bold.dfe5ae0cbdc2dac64c1e.woff",
-    "static/media/Pan Display Regular.woff": "/static/media/Pan Display Regular.15c2780626c7018b43c2.woff",
-    "static/media/img4-min.png": "/static/media/img4-min.723a48074867ac2baea6.png",
-    "static/media/img2-min.png": "/static/media/img2-min.ae5372d58d0f2676b280.png",
-    "static/media/img3-min.png": "/static/media/img3-min.b8fa64e8061cc7995ec5.png",
+    "main.css": "/static/css/main.b8f36b41.css",
+    "main.js": "/static/js/main.ca0ad23a.js",
+    "static/media/boyler.jpg": "/static/media/boyler.347f5188282126e33c48.jpg",
+    "static/media/FRABK.woff": "/static/media/FRABK.2bb35213eec09e5d61aa.woff",
+    "static/media/centurygothic.woff": "/static/media/centurygothic.56f26bd99eb07d9401f3.woff",
+    "static/media/centurygothic_bold.woff": "/static/media/centurygothic_bold.560d4554710c9791e0ba.woff",
+    "static/media/logo.png": "/static/media/logo.649f3105d06cc1500d86.png",
+    "static/media/placeholder.jpg": "/static/media/placeholder.f4b4dfc2864f7ec9e6ff.jpg",
     "index.html": "/index.html",
-    "main.6d6151ca.css.map": "/static/css/main.6d6151ca.css.map",
-    "main.9546c20b.js.map": "/static/js/main.9546c20b.js.map"
+    "main.b8f36b41.css.map": "/static/css/main.b8f36b41.css.map",
+    "main.ca0ad23a.js.map": "/static/js/main.ca0ad23a.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d6151ca.css",
-    "static/js/main.9546c20b.js"
+    "static/css/main.b8f36b41.css",
+    "static/js/main.ca0ad23a.js"
   ]
 }
